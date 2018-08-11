@@ -5,6 +5,7 @@ namespace App\Models;
 class ProjectItem extends BaseModel
 {
     // TYPE_CATEGORY?
+    // TYPE_UMBRELLA_TASK?
     // TYPE_TASK
 
     public function project() {
